@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://codepen.io/oluwasegun31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oluwasegun31" height="30" width="40" /></a>
 <a href="https://twitter.com/__oluwasegun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__oluwasegun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oluwasegun olowosoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwasegun olowosoyo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oluwasegun-olowosoyo-2a730223a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwasegun olowosoyo" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
