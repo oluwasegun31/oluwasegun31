@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Olowosoyo Oluwasegun</h1>
-<h3 align="center">I'm a newly Front-End developer willing to learn more and grow daily</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwasegun31&label=Profile%20views&color=0e75b6&style=flat" alt="oluwasegun31" /> </p>
-
-<p align="left"> <a href="https://twitter.com/__oluwasegun" target="blank"><img src="https://img.shields.io/twitter/follow/__oluwasegun?logo=twitter&style=for-the-badge" alt="__oluwasegun" /></a> </p>
+<h1 align="left">Hi 👋, I'm Olowosoyo Oluwasegun</h1>
+<h3 align="left">I'm a newly Front-End developer willing to learn more and grow daily</h3>
 
 - 🔭 I’m currently working on [A CSS Udemy Project](https://oluwasegun31.github.io/CSS_Project/)
 
@@ -19,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/oluwasegun31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oluwasegun31" height="30" width="40" /></a>
 <a href="https://twitter.com/__oluwasegun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__oluwasegun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oluwasegun-olowosoyo-2a730223a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oluwasegun-olowosoyo-2a730223a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oluwasegun olowosoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwasegun olowosoyo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
