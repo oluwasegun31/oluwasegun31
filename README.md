@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Olowosoyo Oluwasegun</h1>
 <h3 align="left">I'm a newly Front-End developer willing to learn more and grow daily</h3>
 
-- 🔭 I’m currently working on [A CSS Udemy Project](https://oluwasegun31.github.io/CSS_Project/)
+- 🔭 I’m currently working on [A CSS Udemy Project](https://oluwasegun31.github.io/CSS_Project/), A voluntary project on [Speak Nigeria](https://www.speak-nigeria.com/)
 
 - 🌱 I’m currently learning **Full stack development from @zuri and also personally learning CSS frameworks and ReactJs**
 
