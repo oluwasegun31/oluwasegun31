@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Olowosoyo Oluwasegun</h1>
 <h3 align="left">I'm a self-taught Front-End developer willing to learn more and grow daily</h3>
 
-- 🔭 I’m currently working on JS Projects and a voluntary project on [Speak Nigeria](https://www.speak-nigeria.com/)
+- 🔭 I’m currently working on React.Js & Next.Js Projects and on voluntary project 
 
-- 🌱 I’m currently learning CSS frameworks and ReactJs**
+- 🌱 I’m currently learning Prompt Engineering**
 
 - 👯 I’m looking to collaborate on **any Frontend Development project available for experience**
 
